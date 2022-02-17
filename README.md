@@ -25,6 +25,6 @@ C, Python, Kivy, PyQT5, Curses etc...
 
 
 ## 🔗 Social Links
-My facebook Profile[![facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ragibalasad)
+My facebook Profile [![facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ragibalasad)
 
-My Github Profile[![github](https://img.shields.io/badge/github-4078c0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragibalasad)
+My Github Profile [![github](https://img.shields.io/badge/github-4078c0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragibalasad)
