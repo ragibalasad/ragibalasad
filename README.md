@@ -30,11 +30,12 @@
 - 🚀 Languages I prefer:
   ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python)
   ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=c)
+  ![JS](https://img.shields.io/badge/-JS-black?style=plastic&logo=javascript)
 - ⚙️ Tools I use:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-151515?style=plastic&logo=visual-studio-code&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Bash](https://img.shields.io/badge/-Bash-181717?style=plastic&logo=bash)
+  ![Terminal](https://img.shields.io/badge/-Terminal-181717?style=plastic&logo=linux)
 - 🔭 Tech & Frameworks:
   ![Flask](https://img.shields.io/badge/-Flask-151515?style=plastic&logo=flask)
 - 🌱 Currently Learning: OS Development.
