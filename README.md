@@ -1,8 +1,7 @@
 ## Hello, I’m [Ragib Al Asad][website]! 👋
 
 ### I'm a Software developer with 4+ years of coding experience. 👨‍💻
-
-#### My Work Includes: Desktop Software Dev, Linux Contributor and personal projects. 🌠
+###### My Work Includes: Web Dev, Desktop Software Dev, Linux Contribution and personal projects. 🌠
 
 <br>
 
@@ -15,14 +14,7 @@
   <a href="https://github.com/ragibalasad"><img alt="Ragib Al Asad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&langs_count=8&count_private=false&layout=compact&theme=github_dark&hide_border=true&bg_color=0C1014" /></a>
 
 
-<b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
-
-  <br/>
-
-<a href="https://github.com/ragibalasad"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ragibalasad&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
-
-<br/>
-<br/>
+##### <b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
 
 ---
 
