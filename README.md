@@ -30,6 +30,9 @@
   ![Terminal](https://img.shields.io/badge/-Terminal-181717?style=plastic&logo=linux)
 - 🔭 Tech & Frameworks:
   ![Flask](https://img.shields.io/badge/-Flask-151515?style=plastic&logo=flask)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-151515?style=plastic&logo=fastapi)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-151515?style=plastic&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-151515?style=plastic&logo=mongodb)
 - 🌱 Currently Learning: OS Development.
 - ⚡️ Fun fact: I am a full time Linux user. 🐧 I love playing chess. ♟️
 
