@@ -1,4 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ragibalasad" />
+<div align="right">
+    <img src="https://img.shields.io/github/followers/ragibalasad?style=social&logo=github" alt="GitHub followers" /> 
+    <img src="https://img.shields.io/github/stars/ragibalasad?affiliations=OWNER&style=social&logo=github" alt="Total Stars" />
+</div>
 
 <h1 align="center">
   <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=1000&pause=9999&center=true&vCenter=true&width=500&height=40&lines=Hi+%F0%9F%91%8B+I'm+Ragib" alt="Typing SVG" />
