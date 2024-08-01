@@ -15,6 +15,15 @@
      <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=firefox&logoColor=white" target="_blank" />
   </a>
 </h1>
+
+<div align=center>
+<img src="https://streak-stats.demolab.com?user=ragibalasad&theme=blueberry-duo&hide_border=true" alt="GitHub Streak" /><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=donut&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000">
+
+</div>
+<br>
  
 <h2 align="center">⚒️ Tools & Technologies that I use ⚒️</h2>
 <br/>
@@ -24,18 +33,4 @@
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql,vscode,github,figma,git" />
   </p>
 </div>
-
-<h2 align="center"> Some of my best projets</h2>
-<div align="center">
-  [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=ragibalasad&repo=node-pathways)](https://github.com/ragibalasad/node-pathways)
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-</div>
-
 <br/><br/>
-
-<br/>
