@@ -1,6 +1,8 @@
 <div align="right">
-    <img src="https://img.shields.io/github/followers/ragibalasad?style=social&logo=github" alt="GitHub followers" /> 
-    <img src="https://img.shields.io/github/stars/ragibalasad?affiliations=OWNER&style=social&logo=github" alt="Total Stars" />
+    <a href="https://github.com/ragibalasad?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ragibalasad?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/ragibalasad?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ragibalasad?color=55960c&style=flat&labelColor=488207&logo=star"/></a>
 </div>
 
 <h1 align="center">
