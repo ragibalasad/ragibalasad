@@ -11,13 +11,16 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Web+Developer;+Web+Designer;+Software+Dev" />
   </p>
     <a href="mailto:ragibalasad@pm.me">
-    <img src="https://img.shields.io/badge/Email-DDD6FE?style=for-the-badge&logo=proton-mail&logoColor=#2E1065" />
+        <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/Email-7C3AED?color=7C3AED&style=for-the-badge&labelColor=6D28D9&logo=mail"/>
   </a>
   <a href="https://linkedin.com/in/RagibAlAsad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+      <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?color=0284C7&style=for-the-badge&labelColor=0369A1&logo=linkedin"/>
   </a>
   <a href="https://ragibalasad.me" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=firefox&logoColor=white" target="_blank" />
+      <img alt="portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-F97316?color=F97316&style=for-the-badge&labelColor=EA580C&logo=website"/>
+  </a>
+  <a href="https://github.com/DEVELEVEN-io?tab=repositories&sort=stargazers">
+      <img alt="organization" src="https://custom-icon-badges.demolab.com/badge/Organization-55960?color=55960c&style=for-the-badge&labelColor=488207&logo=organization"/>
   </a>
 </h1>
 
