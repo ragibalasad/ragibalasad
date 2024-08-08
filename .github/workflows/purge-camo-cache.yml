@@ -3,6 +3,7 @@ name: Purge Cache
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Allows manual triggers
 
 jobs:
   purge:
