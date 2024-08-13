@@ -6,9 +6,9 @@
 </div>
 
 <h1 align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=1000&pause=9999&center=true&vCenter=true&width=500&height=40&lines=Hi+%F0%9F%91%8B+I'm+Ragib" alt="Typing SVG" />
+  <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=1000&pause=9999&center=true&vCenter=true&width=300&height=40&lines=Hi+%F0%9F%91%8B+I'm+Ragib" alt="Typing SVG" />
   <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Web+Developer;+Web+Designer;+Software+Dev" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=300&height=40&duration=4000&lines=Web+Developer;+Web+Designer;+Software+Dev" />
   </p>
     <a href="mailto:ragibalasad@pm.me">
         <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/Email-7C3AED?color=7C3AED&style=for-the-badge&labelColor=6D28D9&logo=mail"/>
