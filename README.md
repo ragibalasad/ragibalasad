@@ -27,8 +27,8 @@
 <div align=center>
 <img src="https://streak-stats.demolab.com?user=ragibalasad&theme=blueberry-duo&hide_border=true" alt="GitHub Streak" /><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=donut&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000">
+<img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=donut&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117">
 
 </div>
 <br>
