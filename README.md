@@ -1,8 +1,8 @@
 <div align="right">
     <a href="https://github.com/ragibalasad?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://readme-gizmos.vercel.app/github/followers/ragibalasad?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=follow&logoColor=white&cacheSeconds=300"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://readme-gizmos.vercel.app/github/followers/ragibalasad?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=follow&logoColor=white"/></a>
     <a href="https://github.com/ragibalasad?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://readme-gizmos.vercel.app/github/stars/ragibalasad?color=55960c&labelColor=488207&style=flat&logo=star&cacheSeconds=300"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://readme-gizmos.vercel.app/github/stars/ragibalasad?color=55960c&labelColor=488207&style=flat&logo=star"/></a>
 </div>
 
 <h1 align="center">
