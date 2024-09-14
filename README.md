@@ -1,9 +1,12 @@
-<div align="right">
-    <a href="https://github.com/ragibalasad?tab=followers">
+
+<a href="https://github.com/ragibalasad?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://readme-gizmos.vercel.app/github/followers/ragibalasad?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=follow&logoColor=white"/></a>
     <a href="https://github.com/ragibalasad?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://readme-gizmos.vercel.app/github/stars/ragibalasad?color=55960c&labelColor=488207&style=flat&logo=star"/></a>
-</div>
+        <img alt="total stars" title="Total stars on GitHub" src="https://readme-gizmos.vercel.app/github/stars/ragibalasad?color=29903B&labelColor=237a32&style=flat&logo=star"/></a>
+<a href="https://visitcount.itsvg.in">
+  <img align=right src="https://visitcount.itsvg.in/api?id=ragibalasad&label=Profile%20Views&color=9&icon=5&pretty=false" />
+</a>
+
 
 <h1 align="center">
   <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=1000&pause=9999&center=true&vCenter=true&width=300&height=40&lines=Hi+%F0%9F%91%8B+I'm+Ragib" alt="Typing SVG" />
@@ -20,7 +23,7 @@
       <img alt="portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-F97316?color=F97316&style=for-the-badge&labelColor=EA580C&logo=website"/>
   </a>
   <a href="https://github.com/DEVELEVEN-io?tab=repositories&sort=stargazers">
-      <img alt="organization" src="https://custom-icon-badges.demolab.com/badge/Organization-55960?color=55960c&style=for-the-badge&labelColor=488207&logo=organization"/>
+      <img alt="organization" src="https://custom-icon-badges.demolab.com/badge/Organization-55960?color=29903B&style=for-the-badge&labelColor=237a32&logo=organization"/>
   </a>
 </h1>
 
@@ -42,5 +45,3 @@
   </p>
 </div>
 <br/>
-
-[![](https://visitcount.itsvg.in/api?id=ragibalasad&icon=0&color=0)](https://visitcount.itsvg.in)
