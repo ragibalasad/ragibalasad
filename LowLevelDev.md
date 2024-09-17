@@ -1,9 +1,4 @@
 <!-- 
-Copy paste markup from one of many md files into this main README.md
-⬇️⬇️ PASTE BELLOW: START FROM LINE 6 ⬇️⬇️
--->
-
-<!-- 
 A simpler readme. Well suited for Low Level Developer profiles.
 -->
 
