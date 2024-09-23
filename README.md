@@ -28,6 +28,6 @@ I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&show_icons=true&theme=github_dark_dimmed&langs_count=8" height="195">
+<img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed" height="190"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&show_icons=true&theme=github_dark_dimmed&langs_count=8">
 
 <!--<a href="https://linkedin.com/in/ragibalasad/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/linkedin.svg"></a> <a href="https://twitter.com/ragibalasad/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/twitter.svg"></a> <a href="https://t.me/ragibalasad/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/telegram.svg"></a>-->
