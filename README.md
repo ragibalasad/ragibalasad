@@ -12,10 +12,10 @@ I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
 - 📝 &nbsp; Checkout my [Resume](https://github.com/ragibalasad/ragibalasad/blob/main/ragib-resume.pdf)
 
 
-<code><img height="20" alt="graphql" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></code>
-<code><img height="20" alt="nodejs" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png"></code>
-<code><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png"></code>
+<code><img height="20" alt="graphql" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_24x24.png"></code>
+<code><img height="20" alt="nodejs" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_24x24.png"></code>
+<code><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_24x24.png"></code>
+<code><img height="20" alt="typescript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_24x24.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <div>
