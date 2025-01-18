@@ -6,7 +6,7 @@
 [Telegram](https://t.me/ragibalasad)
 &nbsp; 
 I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
-- 🛠️ &nbsp; I'm currently wrapping my head around Go and its concurrency with `goroutines`
+- 🛠️ &nbsp; 🛠️ Exploring Go and goroutines.
 - 🐧 &nbsp; I love FOSS
 - 📫 &nbsp; How to reach me: ragibalasad@pm.me
 - 📝 &nbsp; Checkout my [Resume](https://github.com/ragibalasad/ragibalasad/blob/main/ragib-resume.pdf)
