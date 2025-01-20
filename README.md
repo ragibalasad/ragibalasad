@@ -1,16 +1,11 @@
-## Hey 👋, I'm [Ragib Al Asad](https://ragibalasad.me) !
-
-[LinkedIn](https://www.linkedin.com/in/ragibalasad/) |
-[Website](https://ragibalasad.me/) |
-[Twitter](https://twitter.com/ragibalasad) |
-[Telegram](https://t.me/ragibalasad)
-&nbsp; 
-I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
-- 🛠️ &nbsp; Exploring `Go and goroutines`
-- 🐧 &nbsp; I love FOSS
-- 📫 &nbsp; How to reach me: ragibalasad@pm.me
-- 📝 &nbsp; Checkout my [Resume](https://github.com/ragibalasad/ragibalasad/blob/main/ragib-resume.pdf)
-
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://www.ragibalasad.me">Ragib Al Asad</a>                    
+<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a freelance software developer, living in <a href="https://www.google.com.bd/maps/place/Rangpur/@25.7497964,89.2208095,13z">Rangpur</a>,   <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python enthusiast            
+<span style="color: #000080; text-decoration-color: #000080">║</span> Bangladesh. Other than open source software development, <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/ragibalasad/ragib-portfolio">ragib-portfolio</a>          
+<span style="color: #000080; text-decoration-color: #000080">║</span> my passion would be <a href="https://en.wikipedia.org/wiki/Livestock">Livestock</a>.                           <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/ragibalasad/gocloudy">gocloudy</a>                 
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>⭐ <a href="https://github.com/ragibalasad/DEVELEVEN-io/develeven-io">DEVELEVEN-io/develeven-io</a>
+<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/RagibAlAsad">@RagibAlAsad</a></span>                        <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🔧 Full-stack developer         
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>📘 Author                       
+</pre>
 
 <code><img height="20" alt="graphql" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_24x24.png"></code>
 <code><img height="20" alt="nodejs" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_24x24.png"></code>
@@ -22,5 +17,3 @@ I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
   <img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed" height="190">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=kvlang,makefile">
 </div>
-
-<!--<a href="https://linkedin.com/in/ragibalasad/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/linkedin.svg"></a> <a href="https://twitter.com/ragibalasad/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/twitter.svg"></a> <a href="https://t.me/ragibalasad/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/telegram.svg"></a>-->
