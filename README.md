@@ -14,6 +14,6 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=kvlang,makefile">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed&bg_color=151B23&hide_border=true" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=kvlang,makefile&bg_color=151B23&hide_border=true">
 </div>
