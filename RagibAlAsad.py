@@ -15,7 +15,7 @@ python_tree.add(
 )
 python_tree.add("⭐ [link=https://github.com/ragibalasad/gocloudy]gocloudy")
 python_tree.add(
-    "⭐ [link=https://github.com/ragibalasad/DEVELEVEN-io/develeven-io]DEVELEVEN-io/develeven-io"
+    "⭐ [link=https://github.com/DEVELEVEN-io/develeven-io]DEVELEVEN-io/develeven-io"
 )
 full_stack_tree = tree.add("🔧 Full-stack developer")
 tree.add("📘 Author")
