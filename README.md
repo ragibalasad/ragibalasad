@@ -9,15 +9,15 @@
 </pre>
 </div>
 
-<code><img height="24" alt="python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_24x24.png"></code>
-<code><img height="24" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"></code>
-<code><img height="24" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
-<code><img height="24" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></code>
-<code><img height="24" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></code>
-<code><img height="24" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></code>
-<code><img height="24" alt="next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"></code>
-<code><img height="24" alt="vs code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></code>
-<code><img height="24" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></code>
+<code><img height="20" alt="python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_24x24.png"></code>
+<code><img height="20" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"></code>
+<code><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></code>
+<code><img height="20" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></code>
+<code><img height="20" alt="next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"></code>
+<code><img height="20" alt="vs code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></code>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed&bg_color=151B23&hide_border=true" height="190">
