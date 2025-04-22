@@ -1,13 +1,6 @@
-<div>
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://www.ragibalasad.me">Ragib Al Asad</a>                    
-<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a freelance software developer, living in <a href="https://www.google.com.bd/maps/place/Rangpur/@25.7497964,89.2208095,13z">Rangpur</a>,   <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python enthusiast            
-<span style="color: #000080; text-decoration-color: #000080">║</span> Bangladesh. Other than open source software development, <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/ragibalasad/ragib-portfolio">ragib-portfolio</a>          
-<span style="color: #000080; text-decoration-color: #000080">║</span> my passion would be <a href="https://en.wikipedia.org/wiki/Livestock">Livestock</a>.                           <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/ragibalasad/gocloudy">gocloudy</a>                 
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>⭐ <a href="https://github.com/DEVELEVEN-io/develeven-io">DEVELEVEN-io/develeven-io</a>
-<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/RagibAlAsad">@RagibAlAsad</a></span>                        <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🔧 Full-stack developer         
-<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>📘 Author                       
-</pre>
-</div>
+<div align=center>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=404&height=32&lines=Hi+%F0%9F%91%8B+I'm+Ragib;Software+Engineer;Open+Source+Contributor;Dev+with+a+side+of+curiosity+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_24x24.png"></code>
 <code><img height="20" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"></code>
@@ -22,4 +15,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed&bg_color=151B23&hide_border=true" height="190">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=kvlang,makefile&bg_color=151B23&hide_border=true">
+</div>
+
 </div>
