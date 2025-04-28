@@ -2,13 +2,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&center=false&vCenter=true&width=404&height=32&lines=Software+Engineer,;Open+Source+Contributor,;Dev+with+a+side+of+curiosity+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-```py
-"""
-I'm a software engineer at DevEleven-io, based in Bangladesh. I specialise in
-building high-performance backend systems, primarily using Go, C, and Python.
-I'm also deeply involved in open-source development, contributing to various
-projects. I'm always open to collaborations, so feel free to reach out!
-"""
+```go
+package main
+
+func main() {
+    _role := "Software Engineer at DevEleven-io, Bangladesh (Founder)"
+    _specialisation := "High-performance backend systems with Go, C and Python"
+    _activity := "Active in open-source development. Open for collaboration"
+}
+
+
 ````
 
 ##### [🔎 LinkedIn](https://www.linkedin.com/in/RagibAlasad/)⠀•⠀[🌐 Website](https://ragibalasad.me/)⠀•⠀[📫 ragibalasad@pm.me](mailto:ragibalasad@pm.me)⠀•⠀[𝕏 @RagibAlasad](https://www.x.com/RagibAlasad/)
