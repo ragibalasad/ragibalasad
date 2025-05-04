@@ -1,6 +1,7 @@
 ## Hey 👋, I'm [Ragib Al Asad](https://ragibalasad.me) !
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&center=false&vCenter=true&width=404&height=32&lines=Software+Engineer,;Open+Source+Contributor,;Dev+with+a+side+of+curiosity+%F0%9F%9A%80" alt="Typing SVG" /></a>
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&center=false&vCenter=true&width=404&height=32&lines=Software+Engineer,;Open+Source+Contributor,;Dev+with+a+side+of+curiosity+%F0%9F%9A%80)](https://git.io/typing-svg/#gh-dark-mode-only)
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=false&vCenter=true&width=404&height=32&lines=Software+Engineer,;Open+Source+Contributor,;Dev+with+a+side+of+curiosity+%F0%9F%9A%80)](https://git.io/typing-svg/#gh-light-mode-only)
 
 ```go
 package main
