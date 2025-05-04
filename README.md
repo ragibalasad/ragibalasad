@@ -34,7 +34,7 @@ func main() {
     srcset="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=holi&bg_color=151B23&hide_border=true" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
     height="190" 
     alt="GitHub Stats" />
 </picture>
@@ -44,7 +44,7 @@ func main() {
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=holi&bg_color=151B23&hide_border=true&langs_count=8&hide=kvlang,makefile" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&langs_count=8&hide=kvlang,makefile&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=default&bg_color=F6F8FA&langs_count=8&hide=kvlang,makefile&hide_border=true" 
     alt="Top Languages" />
 </picture>
 </div>
