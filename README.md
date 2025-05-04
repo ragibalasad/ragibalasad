@@ -42,10 +42,10 @@ func main() {
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=holi&bg_color=151B23&hide_border=true&langs_count=8&hide=kvlang,makefile" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=holi&bg_color=151B23&hide_border=true&langs_count=8&hide=kvlang%2Cmakefile" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=default&bg_color=F6F8FA&langs_count=8&hide=kvlang,makefile&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=default&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&hide_border=true" 
     alt="Top Languages" />
 </picture>
 </div>
