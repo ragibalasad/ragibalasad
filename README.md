@@ -29,6 +29,22 @@ func main() {
 <code><img height="20" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></code>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=github_dark_dimmed&bg_color=151B23&hide_border=true" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=kvlang,makefile&bg_color=151B23&hide_border=true">
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&theme=holi&bg_color=151B23&hide_border=true" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ragibalasad&show_icons=true&hide_border=true" 
+    height="190" 
+    alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=holi&bg_color=151B23&hide_border=true&langs_count=8&hide=kvlang,makefile" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&langs_count=8&hide=kvlang,makefile&hide_border=true" 
+    alt="Top Languages" />
+</picture>
 </div>
