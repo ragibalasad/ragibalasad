@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C7154A,100:F85D7F&text=hey%20👋%20i'm%20ragib.&section=header&reversal=false&fontSize=28&textBg=false&fontColor=fefefe&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50">
+<picture>
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C7154A%2C100:F85D7F&text=hey%20👋%20i'm%20ragib.&section=header&reversal=false&fontSize=28&textBg=false&fontColor=fefefe&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4C71F2,100:F85D7F&text=hey%20👋%20i'm%20ragib.&section=header&reversal=false&fontSize=28&textBg=false&fontColor=1F2328&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" />
+</picture>
 
 [![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=F85D7F&center=true&vCenter=true&width=404&height=32&lines=Software+Engineer,;Open+Source+Contributor,;Dev+with+a+side+of+curiosity+%F0%9F%9A%80)](https://git.io/typing-svg/#gh-dark-mode-only)
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=false&vCenter=true&width=404&height=32&lines=Software+Engineer,;Open+Source+Contributor,;Dev+with+a+side+of+curiosity+%F0%9F%9A%80)](https://git.io/typing-svg/#gh-light-mode-only)
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=true&vCenter=true&width=404&height=32&lines=Software+Engineer,;Open+Source+Contributor,;Dev+with+a+side+of+curiosity+%F0%9F%9A%80)](https://git.io/typing-svg/#gh-light-mode-only)
 
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_24x24.png"></code>
 <code><img height="20:C7154A,100:F85D7F0" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"></code>
@@ -40,6 +46,12 @@
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A,100:F85D7F&section=footer&desc=copyright%20©%20Ragib%20Al%20Asad.&descSize=14&fontColor=ffffffae&descAlignY=54&animation=fadeIn&descAlign=50">
+<picture>
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A%2C100:F85D7F&section=footer&desc=copyright%20©%20Ragib%20Al%20Asad.&descSize=14&fontColor=ffffffae&descAlignY=54&animation=fadeIn&descAlign=50" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=copyright%20©%20Ragib%20Al%20Asad.&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50" />
+</picture>
 
 </div>
