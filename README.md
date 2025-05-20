@@ -33,10 +33,10 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=default&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
     height="190"
     alt="Top Languages" />
 </picture>
