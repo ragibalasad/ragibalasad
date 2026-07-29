@@ -7,8 +7,8 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4C71F2,100:F85D7F&text=Hey%20👋%20I'm%20Ragib!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=1F2328&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" />
 </picture>
 
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=F85D7F&center=true&vCenter=true&width=404&height=32&lines=🔗+Software+Engineer;🌱+Open+Source+Contributor;🚀+Dev+with+a+side+of+curiosity)](https://git.io/typing-svg/#gh-dark-mode-only)
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=true&vCenter=true&width=404&height=32&lines=🔗+Software+Engineer;🌱+Open+Source+Contributor;🚀+Dev+with+a+side+of+curiosity)](https://git.io/typing-svg/#gh-light-mode-only)
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=F85D7F&center=true&vCenter=true&width=404&height=32&lines=I+like+working+with+Blockchain+🔗;🤔+and...;Ohh,+and+I+love+Linux+🐧)](https://git.io/typing-svg/#gh-dark-mode-only)
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=true&vCenter=true&width=404&height=32&lines=I+like+working+with+Blockchain+🔗;🤔+and...;Ohh,+and+I+love+Linux+🐧)](https://git.io/typing-svg/#gh-light-mode-only)
 
 [<img src="https://img.shields.io/badge/@Яaghib-F3BA2F?style=flat&logo=binance&logoColor=black" alt="YouTube" height="30">](https://www.binance.com/square/profile/raghib-hu-yaar)
 [<img src="https://img.shields.io/badge/@RagibAlasad-151515?style=flat&logo=x&logoColor=white" alt="YouTube" height="30">](https://www.x.com/RagibAlasad)
