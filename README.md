@@ -12,7 +12,7 @@
 
 [<img src="https://img.shields.io/badge/@Яaghib-F3BA2F?style=flat&logo=binance&logoColor=black" alt="YouTube" height="30">](https://www.binance.com/square/profile/raghib-hu-yaar)
 [<img src="https://img.shields.io/badge/@RagibAlasad-151515?style=flat&logo=x&logoColor=white" alt="YouTube" height="30">](https://www.x.com/RagibAlasad)
-[<img src="https://img.shields.io/badge/ragibalasad@outlook.com-0072C6?style=flat&logo=mail.ru&logoColor=FFFFFF" alt="Email" height="30">](mailto:ragibalasad@outlook.com)
+[<img src="https://img.shields.io/badge/ragibalasad@outlook.com-0078d4?style=flat&logo=mail.ru&logoColor=FFFFFF" alt="Email" height="30">](mailto:ragibalasad@outlook.com)
 
 <a href="https://skillicons.dev/#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=python,go,js,ts,tailwind,nextjs,flask,postgres,vscode,git,linux" height="36" />
